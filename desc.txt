@@ -1,0 +1,12 @@
+
+задаем инфо о usere
+git config --global user.name "Mushfiq"
+
+выводит инфо
+git config --list
+
+pokazivayet status papki
+git status
+
+dobavlayet fayl 
+git add .
